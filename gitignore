@@ -1,0 +1,39 @@
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs and temp files
+*.log
+*.tmp
+*.bak
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Node modules (for JavaScript projects)
+node_modules/
+
+# Virtual environment (Python)
+venv/
+env/
+
+# Environment variable files
+.env
+
+# Compiled files
+*.class
+*.exe
+*.o
+*.so
+
+# IDE/Editor configs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Backup or archive files
+*.zip
+*.tar.gz
+*.rar

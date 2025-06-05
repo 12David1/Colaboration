@@ -1,0 +1,7 @@
+your-project-name/Colaboration
+│
+├── .gitignore             # Git ignore rules
+├── LICENSE                # Open-source license (e.g. MIT)
+├── README.md              # Project overview and setup
+├── requirements.txt       # Dependencies (for Python)
+└── setup.py               # (Optional) Project setup script
